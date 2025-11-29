@@ -1,0 +1,23 @@
+{
+  "name": "com.gitamend.fuzzycomponentcopier",
+  "version": "1.0.0",
+  "displayName": "Fuzzy Component Copier",
+  "description": "An intelligent component value copying tool for Unity that uses fuzzy matching to copy values between components with different field names.",
+  "unity": "2020.3",
+  "keywords": [
+    "editor",
+    "component",
+    "copy",
+    "paste",
+    "fuzzy",
+    "matching",
+    "utility"
+  ],
+  "author": {
+    "name": "Git Amend",
+    "url": "https://github.com/adammyhre"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
+
